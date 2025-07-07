@@ -1,8 +1,3 @@
-Here's a full SEO-optimized `README.md` file for your **Electric Car-related GitHub repository**, with proper structure, markdown formatting, and promotional content for your website: [https://electricarworld.com/](https://electricarworld.com/)
-
----
-
-```markdown
 # ⚡ ElectricarWorld.com – Your Ultimate Guide to Electric Cars
 
 Welcome to the official repository for [ElectricarWorld.com], your go-to destination for everything about **electric vehicles (EVs)**. From the latest electric car news and in-depth reviews to comparisons, buying guides, and eco-driving tips, we empower users to make smart, sustainable choices in the world of electric mobility.
@@ -11,7 +6,7 @@ Welcome to the official repository for [ElectricarWorld.com], your go-to destina
 
 ## 🌐 Website URL
 
-Visit the live site: [https://electricarworld.com/]
+Visit the live site: [https://electricarworld.com/](https://electricarworld.com/)
 ---
 
 ## 🔍 SEO-Optimized Description
